@@ -1,0 +1,4 @@
+﻿  TikTakToePunteros.cpp
+C:\Users\ALUMNOS\Desktop\MarioMontes\ProgramacionII\TikTakToePunteros\TikTakToePunteros.cpp(205,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\Desktop\MarioMontes\ProgramacionII\TikTakToePunteros\TikTakToePunteros.cpp(230,30): warning C4018: '<': no coinciden signed/unsigned
+  TikTakToePunteros.vcxproj -> C:\Users\ALUMNOS\Desktop\MarioMontes\ProgramacionII\TikTakToePunteros\Debug\TikTakToePunteros.exe
